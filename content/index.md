@@ -96,6 +96,7 @@ childGroups:
       - sponsors
       - education
       - support
+      - mentors
 externalProducts:
   atom:
     id: atom
